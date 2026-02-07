@@ -1,6 +1,8 @@
 # Disagreement-Aware Repeated Sampling and Selective Rewriting for Complex Mathematical Reasoning
 
-
+<div align="center">
+<img src="assets/pipeline.png">
+</div>
 
 ## Quick Start
 ### Installation
