@@ -23,6 +23,8 @@
 <img src="assets/lower_tokens.png">
 </div>
 
+> Our method requires significantly fewer tokens and samples than other baselines under the same settings.
+
 
 ## Quick Start
 ### Installation
